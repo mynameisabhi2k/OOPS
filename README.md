@@ -1,2 +1,2 @@
-# OOPS
-Python OOPS
+# OOPS Concepts
+Learning OOPS through Python
