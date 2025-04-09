@@ -1,0 +1,4 @@
+Class and Object
+Class has data and function attributes 
+    attributes get called itself, functions/methods are called manually
+Why Python is called OOPS programming language?
