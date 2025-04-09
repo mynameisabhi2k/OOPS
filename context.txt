@@ -2,3 +2,28 @@ Class and Object
 Class has data and function attributes 
     attributes get called itself, functions/methods are called manually
 Why Python is called OOPS programming language?
+everything in python is a object (data structure, data type)
+
+Advantage of OOPS
+> Create your own data type
+> code reusability
+> debugging
+
+chatbot sample py to understand about classes and objects
+
+function vs methods
+dunder/magic methods
+self
+creating attributes outside of class using object
+
+encapsulation
+getter setter
+static method
+
+why inheritance 
+>code reusability
+>parent/child class access
+constructor, public attributes and methods gets inherited
+super keyword
+
+single, multi, hierarichal, hybrid inheritances
