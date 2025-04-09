@@ -1,9 +1,23 @@
 class chatbot:
+
+    __user_id = 0
+
     def __init__(self):
+        self.id = chatbot.__user_id
+        chatbot.__user_id+=1
         self.username = ''
         self.pwd = ''
         self.loggedin = False
-        self.main_menu()
+        #self.main_menu()
+    
+    @staticmethod
+    def get_id():   # getter
+        return chatbot.__user_id
+    
+    @staticmethod
+    def set_id(value):   # setter
+        chatbot.__user_id = value
+     
 
 
     def main_menu(self):
